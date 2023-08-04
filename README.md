@@ -3,6 +3,11 @@ AmbientesComputacionales2
 
 Lista de estudiantes: 
 
+
+Sebastián Pazmiño
+
+Jorge Revelo
+
 Paul Viracucha
 
 Andres Quiroga
@@ -12,5 +17,3 @@ Kevin Morales
 Anthony Flores
 
 Johan Hidrobo
-
-
